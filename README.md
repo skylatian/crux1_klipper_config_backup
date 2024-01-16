@@ -1,8 +1,8 @@
 ## Tronxy Crux 1 with Bltouch + Kingroon Titan Extruder
 If you're using this on an unmodified Crux 1, you'll need to change:
-- extruder/hotend/thermistor settings
-- print area (this mod decreased print volume)
-- endstop locations and offsets
+- Extruder/hotend/thermistor settings
+- Print area (this mod decreased print volume)
+- Endstop locations and offsets
 - BLtouch/CRtouch offsets
 
 ## Features:
